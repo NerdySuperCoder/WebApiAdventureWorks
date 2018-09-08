@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAdventureWorks", "WebApiAdventureWorks\WebApiAdventureWorks.csproj", "{2E7CEF2F-BBBD-4E3C-BBE6-D45659BC3537}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAdventureWorks.Tests", "WebApiAdventureWorks.Tests\WebApiAdventureWorks.Tests.csproj", "{A53BA447-B52F-44D3-9BEC-A58B9F112DD0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{2E7CEF2F-BBBD-4E3C-BBE6-D45659BC3537}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E7CEF2F-BBBD-4E3C-BBE6-D45659BC3537}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E7CEF2F-BBBD-4E3C-BBE6-D45659BC3537}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A53BA447-B52F-44D3-9BEC-A58B9F112DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A53BA447-B52F-44D3-9BEC-A58B9F112DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A53BA447-B52F-44D3-9BEC-A58B9F112DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A53BA447-B52F-44D3-9BEC-A58B9F112DD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
